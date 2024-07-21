@@ -1,6 +1,6 @@
 
 # InsuranceCrossSelling Project
-![header](visuals/header.png)
+![header](visuals/header.jpg)
 
 ## Overview
 The InsuranceCrossSelling project involves training and evaluating machine learning models to predict the likelihood of customers purchasing additional insurance products. The goal is to identify key features that influence cross-selling opportunities and to build models that can effectively predict customer behavior.
